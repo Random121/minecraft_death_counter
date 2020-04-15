@@ -4,7 +4,7 @@
 
 ## Commands:
 
-**(R1, Delay: 4):** scoreboard players set @a playerDeath 1
+**(R1, Delay: 2):** scoreboard players set @a playerDeath 1
 
 **(C1):** scoreboard players set @e[type=player] playerDeath 0
 
