@@ -6,6 +6,7 @@ C = Chain command block (Chained command blocks are always linked together in th
 \
 **Note:**
 1. All command blocks are unconditional
+2. Immediate respawn off
 
 **Scoreboard Needed:**
 1. playerDeath
