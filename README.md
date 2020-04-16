@@ -15,4 +15,5 @@ O> = Observer (The tip is the direction of the observer)\
 **Scoreboard Needed:**
 1. playerDeath
 2. playerDied
-3. deathCount (Display as "Death Counts")
+3. deathCount
+4. deathDisplay (Display as "§cPlayer Deaths")
